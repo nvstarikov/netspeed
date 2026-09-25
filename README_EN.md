@@ -10,13 +10,13 @@
   <p><b>An honest internet speed test</b></p>
   <p>We show the real ceiling of your line — not a "number for show"</p>
 
-  [![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://stargrd.ru/launcher/)
+  [![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/nvstarikov/netspeed/releases/latest)
   [![Linux](https://img.shields.io/badge/Linux-x64-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://stargrd.ru/launcher/)
   [![Version](https://img.shields.io/badge/version-1.0.2-00e5ff?style=for-the-badge)](https://github.com/nvstarikov/netspeed)
   [![Languages](https://img.shields.io/badge/languages-RU%20%2F%20EN-4ADE80?style=for-the-badge)](#-bilingual-interface)
   [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](LICENSE)
 
-  [📥 Download](https://stargrd.ru/launcher/) ·
+  [📥 Download](https://github.com/nvstarikov/netspeed/releases/latest) ·
   [🌐 netspeed.stargrd.ru](https://netspeed.stargrd.ru/) ·
   [🏠 stargrd.ru](https://stargrd.ru)
 
