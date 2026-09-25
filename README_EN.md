@@ -24,7 +24,7 @@
 
 ---
 
-![NetSpeed main screen](.github/assets/screenshot-main.png)
+![NetSpeed main screen](.github/assets/netspeed_en.gif)
 
 ---
 
