@@ -10,12 +10,12 @@
   <p><b>Честный замер скорости интернета</b></p>
   <p>Показываем реальный потолок вашей линии — а не «цифру для галочки»</p>
 
-  [![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://stargrd.ru/launcher/)
+  [![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/nvstarikov/netspeed/releases/latest)
   [![Версия](https://img.shields.io/badge/версия-1.0.2-00e5ff?style=for-the-badge)](https://github.com/nvstarikov/netspeed)
   [![Языки](https://img.shields.io/badge/языки-РУ%20%2F%20EN-4ADE80?style=for-the-badge)](#-двуязычный-интерфейс)
   [![Лицензия](https://img.shields.io/badge/Лицензия-Проприетарная-red?style=for-the-badge)](LICENSE)
 
-  [📥 Скачать](https://stargrd.ru/launcher/) ·
+  [📥 Скачать](https://github.com/nvstarikov/netspeed/releases/latest) ·
   [🌐 netspeed.stargrd.ru](https://netspeed.stargrd.ru/) ·
   [🏠 stargrd.ru](https://stargrd.ru)
 
