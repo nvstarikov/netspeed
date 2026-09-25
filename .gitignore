@@ -1,0 +1,29 @@
+# Бинарники (не коммитим .exe)
+*.exe
+*.msi
+*.dmg
+*.app
+
+# Пользовательские данные NetSpeed
+netspeed_history.md
+netspeed_config.json
+
+# Python (на случай сборки из исходников)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Иде
+.vscode/
+.idea/
+
+# Сборки
+build/
+dist/
+release-assets/
+
+# Среда
+.env
+.env.local
