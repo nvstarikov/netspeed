@@ -4,7 +4,7 @@
 
 <br>
 
-  <img src=".github/assets/logo.gif" width="120" alt="NetSpeed" />
+  <img src=".github/assets/logo.gif" width="440" alt="NetSpeed" />
 
   <h1>NetSpeed</h1>
   <p><b>Честный замер скорости интернета</b></p>
