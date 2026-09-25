@@ -11,7 +11,6 @@
   <p>Показываем реальный потолок вашей линии — а не «цифру для галочки»</p>
 
   [![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://stargrd.ru/launcher/)
-  [![Linux](https://img.shields.io/badge/Linux-x64-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://stargrd.ru/launcher/)
   [![Версия](https://img.shields.io/badge/версия-1.0.2-00e5ff?style=for-the-badge)](https://github.com/nvstarikov/netspeed)
   [![Языки](https://img.shields.io/badge/языки-РУ%20%2F%20EN-4ADE80?style=for-the-badge)](#-двуязычный-интерфейс)
   [![Лицензия](https://img.shields.io/badge/Лицензия-Проприетарная-red?style=for-the-badge)](LICENSE)
@@ -24,7 +23,7 @@
 
 ---
 
-![Главный экран NetSpeed](.github/assets/screenshot-main.png)
+![Главный экран NetSpeed](.github/assets/netspeed_ru.gif)
 
 ---
 
