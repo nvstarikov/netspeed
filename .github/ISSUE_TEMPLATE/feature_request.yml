@@ -1,0 +1,42 @@
+name: 💡 Предложение / Feature Request
+description: Предложить новую функцию или улучшение / Suggest a new feature
+title: "[FEAT] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Спасибо за идею! Расскажи подробнее. / Thanks for your idea! Tell us more.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Какую задачу это решает? / What problem does it solve?
+      description: Опиши проблему, которую хочешь решить
+      placeholder: "Сейчас нельзя экспортировать историю в CSV..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Предлагаемое решение / Proposed solution
+      placeholder: "Добавить флаг --export=csv..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Альтернативы / Alternatives
+      description: Какие ещё варианты ты рассматривал?
+    validations:
+      required: false
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Дополнительно / Additional context
+      description: Скриншоты, скетчи, ссылки на похожие решения
+    validations:
+      required: false
