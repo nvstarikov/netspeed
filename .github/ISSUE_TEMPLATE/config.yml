@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Вопрос / Ask a question
+    url: https://stargrd.ru/forum/
+    about: Вопросы — на форуме СТАРГРАДД / Questions go to the forum
+  - name: 🌐 Официальный сайт / Official site
+    url: https://netspeed.stargrd.ru/
+    about: Описание продукта и документация / Product description and docs
+  - name: 🛡️ Уязвимость / Security issue
+    url: mailto:security@stargrd.ru
+    about: Приватный отчёт об уязвимости / Private vulnerability report
+  - name: 📧 Email поддержки / Support email
+    url: mailto:support@stargrd.ru
+    about: Написать в техподдержку / Contact support
