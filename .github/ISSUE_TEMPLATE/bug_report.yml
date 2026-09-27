@@ -1,0 +1,93 @@
+name: 🐛 Баг-репорт
+description: Сообщить об ошибке в работе NetSpeed / Report a bug in NetSpeed
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Спасибо, что сообщаешь об ошибке! / Thanks for reporting a bug!
+        Чем подробнее опишешь — тем быстрее починим. / The more detail, the faster we fix it.
+
+  - type: input
+    id: version
+    attributes:
+      label: Версия NetSpeed / NetSpeed version
+      description: Видна при запуске / Shown on startup
+      placeholder: "1.0.2"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: Операционная система / OS
+      options:
+        - Windows 10
+        - Windows 11
+        - Linux
+        - Другая / Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: connection
+    attributes:
+      label: Тип подключения / Connection type
+      options:
+        - Кабель (Ethernet) / Wired
+        - Wi-Fi
+        - Мобильный интернет / Mobile
+        - VPN / Proxy
+    validations:
+      required: true
+
+  - type: input
+    id: isp
+    attributes:
+      label: Провайдер и тариф / ISP and plan
+      description: Например / For example — Ростелеком, 1 Гбит/с
+      placeholder: "Ростелеком, 980 Мбит/с"
+    validations:
+      required: false
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Что случилось? / What happened?
+      description: Опиши подробно, что делал и что пошло не так
+      placeholder: |
+        1. Запустил netspeed.exe
+        2. Нажал кнопку старта
+        3. Программа вылетела на этапе upload
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Что ожидал увидеть? / What did you expect?
+      placeholder: "Должен был появиться результат замера"
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Отчёт из netspeed_history.md / Report from netspeed_history.md
+      description: Приложи последние 2–3 замера / Attach last 2–3 measurements
+      render: shell
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Проверки / Checks
+      options:
+        - label: Я проверил, что такого Issue ещё нет / I searched existing Issues
+          required: true
+        - label: Я использую последнюю версию NetSpeed / I'm on the latest version
+          required: true
+        - label: VPN, Tailscale и обход блокировок выключены / VPN and bypass tools are off
+          required: true
